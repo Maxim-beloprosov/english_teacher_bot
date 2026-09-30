@@ -1,0 +1,646 @@
+[
+  {
+    "infinitive": "apple",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "яблоко",
+    "example": "I eat an apple every day."
+  },
+  {
+    "infinitive": "banana",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "банан",
+    "example": "She sliced a banana for breakfast."
+  },
+  {
+    "infinitive": "orange",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "апельсин",
+    "example": "I bought two oranges."
+  },
+  {
+    "infinitive": "lemon",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "лимон",
+    "example": "Add some lemon to the tea."
+  },
+  {
+    "infinitive": "lime",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "лайм",
+    "example": "We need a lime for the sauce."
+  },
+  {
+    "infinitive": "grape",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "виноград",
+    "example": "These grapes are very sweet."
+  },
+  {
+    "infinitive": "strawberry",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "клубника",
+    "example": "The strawberries are fresh."
+  },
+  {
+    "infinitive": "blueberry",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "черника",
+    "example": "I added blueberries to the yogurt."
+  },
+  {
+    "infinitive": "raspberry",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "малина",
+    "example": "She picked fresh raspberries."
+  },
+  {
+    "infinitive": "watermelon",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "арбуз",
+    "example": "We bought a large watermelon."
+  },
+  {
+    "infinitive": "melon",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "дыня",
+    "example": "This melon smells sweet."
+  },
+  {
+    "infinitive": "peach",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "персик",
+    "example": "The peach is ripe."
+  },
+  {
+    "infinitive": "pear",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "груша",
+    "example": "He ate a pear."
+  },
+  {
+    "infinitive": "pineapple",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "ананас",
+    "example": "Cut the pineapple into pieces."
+  },
+  {
+    "infinitive": "mango",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "манго",
+    "example": "Mango is my favorite fruit."
+  },
+  {
+    "infinitive": "coconut",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "кокос",
+    "example": "She opened a coconut."
+  },
+  {
+    "infinitive": "avocado",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "авокадо",
+    "example": "I put avocado on toast."
+  },
+  {
+    "infinitive": "tomato",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "помидор",
+    "example": "Slice the tomato thinly."
+  },
+  {
+    "infinitive": "potato",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "картофель",
+    "example": "Boil the potatoes for ten minutes."
+  },
+  {
+    "infinitive": "carrot",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "морковь",
+    "example": "Add a carrot to the soup."
+  },
+  {
+    "infinitive": "onion",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "лук",
+    "example": "Chop the onion finely."
+  },
+  {
+    "infinitive": "garlic",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "чеснок",
+    "example": "Add two cloves of garlic."
+  },
+  {
+    "infinitive": "cucumber",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "огурец",
+    "example": "The cucumber is crisp."
+  },
+  {
+    "infinitive": "pepper",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "перец",
+    "example": "Add some black pepper."
+  },
+  {
+    "infinitive": "chili",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "перец чили",
+    "example": "This chili is very spicy."
+  },
+  {
+    "infinitive": "lettuce",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "салат-латук",
+    "example": "Wash the lettuce before serving."
+  },
+  {
+    "infinitive": "spinach",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "шпинат",
+    "example": "I added spinach to the omelet."
+  },
+  {
+    "infinitive": "cabbage",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "капуста",
+    "example": "We made a cabbage salad."
+  },
+  {
+    "infinitive": "broccoli",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "брокколи",
+    "example": "Steam the broccoli for five minutes."
+  },
+  {
+    "infinitive": "cauliflower",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "цветная капуста",
+    "example": "The cauliflower is tender."
+  },
+  {
+    "infinitive": "mushroom",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "гриб",
+    "example": "There is a mushroom in the soup."
+  },
+  {
+    "infinitive": "corn",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "кукуруза",
+    "example": "Add some corn to the salad."
+  },
+  {
+    "infinitive": "pea",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "горошек",
+    "example": "The soup contains peas."
+  },
+  {
+    "infinitive": "bean",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "фасоль",
+    "example": "Beans are rich in protein."
+  },
+  {
+    "infinitive": "lentil",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "чечевица",
+    "example": "I made a lentil soup."
+  },
+  {
+    "infinitive": "rice",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "рис",
+    "example": "Serve the curry with rice."
+  },
+  {
+    "infinitive": "pasta",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "паста, макароны",
+    "example": "The pasta is almost ready."
+  },
+  {
+    "infinitive": "noodle",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "лапша",
+    "example": "These noodles are spicy."
+  },
+  {
+    "infinitive": "bread",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "хлеб",
+    "example": "We need some fresh bread."
+  },
+  {
+    "infinitive": "toast",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "тост",
+    "example": "I had toast for breakfast."
+  },
+  {
+    "infinitive": "flour",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "мука",
+    "example": "Add the flour slowly."
+  },
+  {
+    "infinitive": "sugar",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сахар",
+    "example": "Do not add too much sugar."
+  },
+  {
+    "infinitive": "salt",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "соль",
+    "example": "The soup needs more salt."
+  },
+  {
+    "infinitive": "butter",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сливочное масло",
+    "example": "Melt the butter in a pan."
+  },
+  {
+    "infinitive": "cheese",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сыр",
+    "example": "This cheese is very soft."
+  },
+  {
+    "infinitive": "cream",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сливки, крем",
+    "example": "Add cream to the sauce."
+  },
+  {
+    "infinitive": "milk",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "молоко",
+    "example": "I drink milk with breakfast."
+  },
+  {
+    "infinitive": "yogurt",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "йогурт",
+    "example": "She bought natural yogurt."
+  },
+  {
+    "infinitive": "egg",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "яйцо",
+    "example": "Crack two eggs into a bowl."
+  },
+  {
+    "infinitive": "chicken",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "курица",
+    "example": "We are having chicken for dinner."
+  },
+  {
+    "infinitive": "beef",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "говядина",
+    "example": "The beef is tender."
+  },
+  {
+    "infinitive": "pork",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "свинина",
+    "example": "He does not eat pork."
+  },
+  {
+    "infinitive": "lamb",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "баранина",
+    "example": "Lamb goes well with rosemary."
+  },
+  {
+    "infinitive": "turkey",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "индейка",
+    "example": "We cooked turkey for dinner."
+  },
+  {
+    "infinitive": "fish",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "рыба",
+    "example": "The fish is fresh."
+  },
+  {
+    "infinitive": "salmon",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "лосось",
+    "example": "I ordered grilled salmon."
+  },
+  {
+    "infinitive": "tuna",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "тунец",
+    "example": "Add tuna to the salad."
+  },
+  {
+    "infinitive": "shrimp",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "креветка",
+    "example": "The shrimp are ready."
+  },
+  {
+    "infinitive": "mussel",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "мидия",
+    "example": "We ordered mussels with garlic."
+  },
+  {
+    "infinitive": "soup",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "суп",
+    "example": "The soup is hot."
+  },
+  {
+    "infinitive": "salad",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "салат",
+    "example": "I made a fresh salad."
+  },
+  {
+    "infinitive": "sandwich",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сэндвич",
+    "example": "He packed a sandwich for lunch."
+  },
+  {
+    "infinitive": "sauce",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "соус",
+    "example": "This sauce is too spicy."
+  },
+  {
+    "infinitive": "breakfast",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "завтрак",
+    "example": "Breakfast is ready."
+  },
+  {
+    "infinitive": "lunch",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "обед",
+    "example": "We have lunch at noon."
+  },
+  {
+    "infinitive": "dinner",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "ужин",
+    "example": "Dinner starts at seven."
+  },
+  {
+    "infinitive": "snack",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "перекус, закуска",
+    "example": "I need a quick snack."
+  },
+  {
+    "infinitive": "dessert",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "десерт",
+    "example": "We ordered dessert."
+  },
+  {
+    "infinitive": "cake",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "торт, пирог",
+    "example": "She baked a chocolate cake."
+  },
+  {
+    "infinitive": "cookie",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "печенье",
+    "example": "I ate one cookie."
+  },
+  {
+    "infinitive": "chocolate",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "шоколад",
+    "example": "Dark chocolate is bitter."
+  },
+  {
+    "infinitive": "honey",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "мёд",
+    "example": "Add a spoonful of honey."
+  },
+  {
+    "infinitive": "jam",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "джем, варенье",
+    "example": "I spread jam on the toast."
+  },
+  {
+    "infinitive": "spicy",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "острый",
+    "example": "This curry is very spicy."
+  },
+  {
+    "infinitive": "sweet",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сладкий",
+    "example": "The mango is very sweet."
+  },
+  {
+    "infinitive": "sour",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "кислый",
+    "example": "The lemon tastes sour."
+  },
+  {
+    "infinitive": "bitter",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "горький",
+    "example": "The coffee is bitter."
+  },
+  {
+    "infinitive": "salty",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "солёный",
+    "example": "The soup is too salty."
+  },
+  {
+    "infinitive": "fresh",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "свежий",
+    "example": "The vegetables are fresh."
+  },
+  {
+    "infinitive": "ripe",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "спелый",
+    "example": "The avocado is ripe."
+  },
+  {
+    "infinitive": "raw",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "сырой",
+    "example": "The fish is raw."
+  },
+  {
+    "infinitive": "boiled",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "варёный",
+    "example": "We had boiled eggs."
+  },
+  {
+    "infinitive": "fried",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "жареный",
+    "example": "I ordered fried rice."
+  },
+  {
+    "infinitive": "baked",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "запечённый",
+    "example": "We had baked potatoes."
+  },
+  {
+    "infinitive": "grilled",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "приготовленный на гриле",
+    "example": "She ordered grilled vegetables."
+  },
+  {
+    "infinitive": "ingredient",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "ингредиент",
+    "example": "Garlic is an important ingredient."
+  },
+  {
+    "infinitive": "recipe",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "рецепт",
+    "example": "I found a new recipe."
+  },
+  {
+    "infinitive": "meal",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "приём пищи, блюдо",
+    "example": "This is a healthy meal."
+  },
+  {
+    "infinitive": "dish",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "блюдо",
+    "example": "This dish is popular locally."
+  },
+  {
+    "infinitive": "portion",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "порция",
+    "example": "The portion is large."
+  },
+  {
+    "infinitive": "menu",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "меню",
+    "example": "Can I see the menu?"
+  },
+  {
+    "infinitive": "bill",
+    "past_simple": "",
+    "past_participle": "",
+    "translation": "счёт в ресторане",
+    "example": "Could we have the bill, please?"
+  }
+]

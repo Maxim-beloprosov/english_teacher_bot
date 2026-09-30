@@ -1,0 +1,667 @@
+[
+  {
+    "infinitive": "be",
+    "past_simple": "was/were",
+    "past_participle": "been",
+    "translation": "быть",
+    "example": "I was tired yesterday."
+  },
+  {
+    "infinitive": "become",
+    "past_simple": "became",
+    "past_participle": "become",
+    "translation": "становиться",
+    "example": "She became a doctor."
+  },
+  {
+    "infinitive": "begin",
+    "past_simple": "began",
+    "past_participle": "begun",
+    "translation": "начинать",
+    "example": "The lesson began at nine."
+  },
+  {
+    "infinitive": "break",
+    "past_simple": "broke",
+    "past_participle": "broken",
+    "translation": "ломать",
+    "example": "He broke the window."
+  },
+  {
+    "infinitive": "bring",
+    "past_simple": "brought",
+    "past_participle": "brought",
+    "translation": "приносить",
+    "example": "Please bring your passport."
+  },
+  {
+    "infinitive": "build",
+    "past_simple": "built",
+    "past_participle": "built",
+    "translation": "строить",
+    "example": "They built a new house."
+  },
+  {
+    "infinitive": "buy",
+    "past_simple": "bought",
+    "past_participle": "bought",
+    "translation": "покупать",
+    "example": "I bought a new book."
+  },
+  {
+    "infinitive": "catch",
+    "past_simple": "caught",
+    "past_participle": "caught",
+    "translation": "ловить",
+    "example": "She caught the ball."
+  },
+  {
+    "infinitive": "choose",
+    "past_simple": "chose",
+    "past_participle": "chosen",
+    "translation": "выбирать",
+    "example": "Choose one answer."
+  },
+  {
+    "infinitive": "come",
+    "past_simple": "came",
+    "past_participle": "come",
+    "translation": "приходить",
+    "example": "He came home late."
+  },
+  {
+    "infinitive": "cost",
+    "past_simple": "cost",
+    "past_participle": "cost",
+    "translation": "стоить",
+    "example": "The ticket cost ten pounds."
+  },
+  {
+    "infinitive": "cut",
+    "past_simple": "cut",
+    "past_participle": "cut",
+    "translation": "резать",
+    "example": "Cut the paper."
+  },
+  {
+    "infinitive": "do",
+    "past_simple": "did",
+    "past_participle": "done",
+    "translation": "делать",
+    "example": "I did my homework."
+  },
+  {
+    "infinitive": "draw",
+    "past_simple": "drew",
+    "past_participle": "drawn",
+    "translation": "рисовать",
+    "example": "She drew a picture."
+  },
+  {
+    "infinitive": "drink",
+    "past_simple": "drank",
+    "past_participle": "drunk",
+    "translation": "пить",
+    "example": "He drank some water."
+  },
+  {
+    "infinitive": "drive",
+    "past_simple": "drove",
+    "past_participle": "driven",
+    "translation": "водить",
+    "example": "I drove to work."
+  },
+  {
+    "infinitive": "eat",
+    "past_simple": "ate",
+    "past_participle": "eaten",
+    "translation": "есть",
+    "example": "We ate dinner together."
+  },
+  {
+    "infinitive": "fall",
+    "past_simple": "fell",
+    "past_participle": "fallen",
+    "translation": "падать",
+    "example": "The leaves fell down."
+  },
+  {
+    "infinitive": "feel",
+    "past_simple": "felt",
+    "past_participle": "felt",
+    "translation": "чувствовать",
+    "example": "I felt better today."
+  },
+  {
+    "infinitive": "find",
+    "past_simple": "found",
+    "past_participle": "found",
+    "translation": "находить",
+    "example": "I found my keys."
+  },
+  {
+    "infinitive": "fly",
+    "past_simple": "flew",
+    "past_participle": "flown",
+    "translation": "летать",
+    "example": "They flew to London."
+  },
+  {
+    "infinitive": "forget",
+    "past_simple": "forgot",
+    "past_participle": "forgotten",
+    "translation": "забывать",
+    "example": "Don't forget my name."
+  },
+  {
+    "infinitive": "get",
+    "past_simple": "got",
+    "past_participle": "got/gotten",
+    "translation": "получать; становиться",
+    "example": "I got a message."
+  },
+  {
+    "infinitive": "give",
+    "past_simple": "gave",
+    "past_participle": "given",
+    "translation": "давать",
+    "example": "Give me a minute."
+  },
+  {
+    "infinitive": "go",
+    "past_simple": "went",
+    "past_participle": "gone",
+    "translation": "идти; ехать",
+    "example": "I went to London."
+  },
+  {
+    "infinitive": "grow",
+    "past_simple": "grew",
+    "past_participle": "grown",
+    "translation": "расти",
+    "example": "The plant grew quickly."
+  },
+  {
+    "infinitive": "have",
+    "past_simple": "had",
+    "past_participle": "had",
+    "translation": "иметь",
+    "example": "I had breakfast."
+  },
+  {
+    "infinitive": "hear",
+    "past_simple": "heard",
+    "past_participle": "heard",
+    "translation": "слышать",
+    "example": "I heard a noise."
+  },
+  {
+    "infinitive": "hide",
+    "past_simple": "hid",
+    "past_participle": "hidden",
+    "translation": "прятать",
+    "example": "He hid the key."
+  },
+  {
+    "infinitive": "hit",
+    "past_simple": "hit",
+    "past_participle": "hit",
+    "translation": "ударять",
+    "example": "The ball hit the wall."
+  },
+  {
+    "infinitive": "hold",
+    "past_simple": "held",
+    "past_participle": "held",
+    "translation": "держать",
+    "example": "Hold my bag."
+  },
+  {
+    "infinitive": "keep",
+    "past_simple": "kept",
+    "past_participle": "kept",
+    "translation": "держать; хранить",
+    "example": "Keep the receipt."
+  },
+  {
+    "infinitive": "know",
+    "past_simple": "knew",
+    "past_participle": "known",
+    "translation": "знать",
+    "example": "I knew the answer."
+  },
+  {
+    "infinitive": "leave",
+    "past_simple": "left",
+    "past_participle": "left",
+    "translation": "уходить; оставлять",
+    "example": "We left early."
+  },
+  {
+    "infinitive": "lose",
+    "past_simple": "lost",
+    "past_participle": "lost",
+    "translation": "терять; проигрывать",
+    "example": "I lost my phone."
+  },
+  {
+    "infinitive": "make",
+    "past_simple": "made",
+    "past_participle": "made",
+    "translation": "делать; создавать",
+    "example": "She made dinner."
+  },
+  {
+    "infinitive": "meet",
+    "past_simple": "met",
+    "past_participle": "met",
+    "translation": "встречать",
+    "example": "I met him yesterday."
+  },
+  {
+    "infinitive": "pay",
+    "past_simple": "paid",
+    "past_participle": "paid",
+    "translation": "платить",
+    "example": "I paid the bill."
+  },
+  {
+    "infinitive": "put",
+    "past_simple": "put",
+    "past_participle": "put",
+    "translation": "класть",
+    "example": "Put it on the table."
+  },
+  {
+    "infinitive": "read",
+    "past_simple": "read",
+    "past_participle": "read",
+    "translation": "читать",
+    "example": "I read the book."
+  },
+  {
+    "infinitive": "ride",
+    "past_simple": "rode",
+    "past_participle": "ridden",
+    "translation": "ездить верхом",
+    "example": "He rode a bike."
+  },
+  {
+    "infinitive": "ring",
+    "past_simple": "rang",
+    "past_participle": "rung",
+    "translation": "звонить",
+    "example": "The phone rang."
+  },
+  {
+    "infinitive": "run",
+    "past_simple": "ran",
+    "past_participle": "run",
+    "translation": "бегать",
+    "example": "She ran fast."
+  },
+  {
+    "infinitive": "say",
+    "past_simple": "said",
+    "past_participle": "said",
+    "translation": "говорить",
+    "example": "He said hello."
+  },
+  {
+    "infinitive": "see",
+    "past_simple": "saw",
+    "past_participle": "seen",
+    "translation": "видеть",
+    "example": "I saw her yesterday."
+  },
+  {
+    "infinitive": "sell",
+    "past_simple": "sold",
+    "past_participle": "sold",
+    "translation": "продавать",
+    "example": "They sold the car."
+  },
+  {
+    "infinitive": "send",
+    "past_simple": "sent",
+    "past_participle": "sent",
+    "translation": "отправлять",
+    "example": "Send me the file."
+  },
+  {
+    "infinitive": "sing",
+    "past_simple": "sang",
+    "past_participle": "sung",
+    "translation": "петь",
+    "example": "She sang a song."
+  },
+  {
+    "infinitive": "sit",
+    "past_simple": "sat",
+    "past_participle": "sat",
+    "translation": "сидеть",
+    "example": "Sit here."
+  },
+  {
+    "infinitive": "sleep",
+    "past_simple": "slept",
+    "past_participle": "slept",
+    "translation": "спать",
+    "example": "I slept well."
+  },
+  {
+    "infinitive": "speak",
+    "past_simple": "spoke",
+    "past_participle": "spoken",
+    "translation": "говорить; разговаривать",
+    "example": "We spoke English."
+  },
+  {
+    "infinitive": "spend",
+    "past_simple": "spent",
+    "past_participle": "spent",
+    "translation": "тратить; проводить",
+    "example": "I spent two hours there."
+  },
+  {
+    "infinitive": "stand",
+    "past_simple": "stood",
+    "past_participle": "stood",
+    "translation": "стоять",
+    "example": "He stood near the door."
+  },
+  {
+    "infinitive": "swim",
+    "past_simple": "swam",
+    "past_participle": "swum",
+    "translation": "плавать",
+    "example": "They swam in the sea."
+  },
+  {
+    "infinitive": "take",
+    "past_simple": "took",
+    "past_participle": "taken",
+    "translation": "брать",
+    "example": "Take your umbrella."
+  },
+  {
+    "infinitive": "teach",
+    "past_simple": "taught",
+    "past_participle": "taught",
+    "translation": "учить; преподавать",
+    "example": "She taught English."
+  },
+  {
+    "infinitive": "tell",
+    "past_simple": "told",
+    "past_participle": "told",
+    "translation": "рассказывать; говорить",
+    "example": "Tell me the truth."
+  },
+  {
+    "infinitive": "think",
+    "past_simple": "thought",
+    "past_participle": "thought",
+    "translation": "думать",
+    "example": "I thought about it."
+  },
+  {
+    "infinitive": "understand",
+    "past_simple": "understood",
+    "past_participle": "understood",
+    "translation": "понимать",
+    "example": "I understood the question."
+  },
+  {
+    "infinitive": "wear",
+    "past_simple": "wore",
+    "past_participle": "worn",
+    "translation": "носить одежду",
+    "example": "She wore a blue dress."
+  },
+  {
+    "infinitive": "win",
+    "past_simple": "won",
+    "past_participle": "won",
+    "translation": "побеждать",
+    "example": "Our team won."
+  },
+  {
+    "infinitive": "write",
+    "past_simple": "wrote",
+    "past_participle": "written",
+    "translation": "писать",
+    "example": "Write your name."
+  },
+  {
+    "infinitive": "lie",
+    "past_simple": "lay",
+    "past_participle": "lain",
+    "translation": "лежать",
+    "example": "He lay on the bed."
+  },
+  {
+    "infinitive": "lead",
+    "past_simple": "led",
+    "past_participle": "led",
+    "translation": "вести",
+    "example": "She led the team."
+  },
+  {
+    "infinitive": "lend",
+    "past_simple": "lent",
+    "past_participle": "lent",
+    "translation": "одалживать",
+    "example": "Can you lend me some money?"
+  },
+  {
+    "infinitive": "let",
+    "past_simple": "let",
+    "past_participle": "let",
+    "translation": "позволять",
+    "example": "Let me help."
+  },
+  {
+    "infinitive": "mean",
+    "past_simple": "meant",
+    "past_participle": "meant",
+    "translation": "означать",
+    "example": "What does this mean?"
+  },
+  {
+    "infinitive": "set",
+    "past_simple": "set",
+    "past_participle": "set",
+    "translation": "устанавливать; ставить",
+    "example": "Set the alarm."
+  },
+  {
+    "infinitive": "shake",
+    "past_simple": "shook",
+    "past_participle": "shaken",
+    "translation": "трясти",
+    "example": "Shake the bottle."
+  },
+  {
+    "infinitive": "steal",
+    "past_simple": "stole",
+    "past_participle": "stolen",
+    "translation": "красть",
+    "example": "Someone stole my bag."
+  },
+  {
+    "infinitive": "throw",
+    "past_simple": "threw",
+    "past_participle": "thrown",
+    "translation": "бросать",
+    "example": "Throw the ball."
+  },
+  {
+    "infinitive": "wake",
+    "past_simple": "woke",
+    "past_participle": "woken",
+    "translation": "просыпаться; будить",
+    "example": "I woke up early."
+  },
+  {
+    "infinitive": "blow",
+    "past_simple": "blew",
+    "past_participle": "blown",
+    "translation": "дуть",
+    "example": "The wind blew hard."
+  },
+  {
+    "infinitive": "deal",
+    "past_simple": "dealt",
+    "past_participle": "dealt",
+    "translation": "иметь дело; раздавать",
+    "example": "We dealt with the problem."
+  },
+  {
+    "infinitive": "feed",
+    "past_simple": "fed",
+    "past_participle": "fed",
+    "translation": "кормить",
+    "example": "Feed the cat."
+  },
+  {
+    "infinitive": "fight",
+    "past_simple": "fought",
+    "past_participle": "fought",
+    "translation": "драться; бороться",
+    "example": "They fought bravely."
+  },
+  {
+    "infinitive": "hang",
+    "past_simple": "hung",
+    "past_participle": "hung",
+    "translation": "вешать; висеть",
+    "example": "Hang your coat here."
+  },
+  {
+    "infinitive": "hurt",
+    "past_simple": "hurt",
+    "past_participle": "hurt",
+    "translation": "причинять боль",
+    "example": "My leg hurt."
+  },
+  {
+    "infinitive": "light",
+    "past_simple": "lit",
+    "past_participle": "lit",
+    "translation": "зажигать; освещать",
+    "example": "She lit a candle."
+  },
+  {
+    "infinitive": "quit",
+    "past_simple": "quit",
+    "past_participle": "quit",
+    "translation": "бросать; прекращать",
+    "example": "He quit his job."
+  },
+  {
+    "infinitive": "rise",
+    "past_simple": "rose",
+    "past_participle": "risen",
+    "translation": "подниматься",
+    "example": "Prices rose quickly."
+  },
+  {
+    "infinitive": "seek",
+    "past_simple": "sought",
+    "past_participle": "sought",
+    "translation": "искать",
+    "example": "They sought help."
+  },
+  {
+    "infinitive": "shine",
+    "past_simple": "shone",
+    "past_participle": "shone",
+    "translation": "светить",
+    "example": "The sun shone brightly."
+  },
+  {
+    "infinitive": "shoot",
+    "past_simple": "shot",
+    "past_participle": "shot",
+    "translation": "стрелять; снимать",
+    "example": "He shot a video."
+  },
+  {
+    "infinitive": "show",
+    "past_simple": "showed",
+    "past_participle": "shown",
+    "translation": "показывать",
+    "example": "Show me the way."
+  },
+  {
+    "infinitive": "shut",
+    "past_simple": "shut",
+    "past_participle": "shut",
+    "translation": "закрывать",
+    "example": "Shut the door."
+  },
+  {
+    "infinitive": "sink",
+    "past_simple": "sank",
+    "past_participle": "sunk",
+    "translation": "тонуть",
+    "example": "The ship sank."
+  },
+  {
+    "infinitive": "slide",
+    "past_simple": "slid",
+    "past_participle": "slid",
+    "translation": "скользить",
+    "example": "The box slid down."
+  },
+  {
+    "infinitive": "smell",
+    "past_simple": "smelt",
+    "past_participle": "smelt",
+    "translation": "пахнуть; нюхать",
+    "example": "The food smelled good."
+  },
+  {
+    "infinitive": "spell",
+    "past_simple": "spelt",
+    "past_participle": "spelt",
+    "translation": "писать по буквам",
+    "example": "How do you spell it?"
+  },
+  {
+    "infinitive": "stick",
+    "past_simple": "stuck",
+    "past_participle": "stuck",
+    "translation": "приклеивать; застревать",
+    "example": "The door stuck."
+  },
+  {
+    "infinitive": "strike",
+    "past_simple": "struck",
+    "past_participle": "struck",
+    "translation": "ударять",
+    "example": "Lightning struck the tree."
+  },
+  {
+    "infinitive": "sweep",
+    "past_simple": "swept",
+    "past_participle": "swept",
+    "translation": "подметать",
+    "example": "She swept the floor."
+  },
+  {
+    "infinitive": "tear",
+    "past_simple": "tore",
+    "past_participle": "torn",
+    "translation": "рвать",
+    "example": "Don't tear the paper."
+  },
+  {
+    "infinitive": "weep",
+    "past_simple": "wept",
+    "past_participle": "wept",
+    "translation": "плакать",
+    "example": "She wept quietly."
+  }
+]
